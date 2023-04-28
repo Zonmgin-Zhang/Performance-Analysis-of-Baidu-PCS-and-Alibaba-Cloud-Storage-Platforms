@@ -15,6 +15,7 @@ Or
 Then, you will see the message below: 
 
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/85326183/235118620-8bae0cc6-e35b-4b85-94d9-ce723f58b1b3.png">
+ 
  Go to the link above (https://openapi.baidu.com/oauth/2.0/authorize?client_id=q8WE4EpCsau1oS0MplgMKNBn&response_type=code&redirect_uri=oob&scope=basic+netdisk), and log in your account.
  
  
