@@ -31,11 +31,4 @@ def upload_all():
     ali.upload_files(['./data/100MB.txt'])
     end_time = time.time() - start_time
     print("100MB file's uploading duration time: ", end_time)
-    
-    ali = Aligo()
-    start_time = time.time()
-    ali.upload_files(['./data/1GB.txt'])
-    end_time = time.time() - start_time
-    print("1GB file's uploading duration time: ", end_time)
-
 
