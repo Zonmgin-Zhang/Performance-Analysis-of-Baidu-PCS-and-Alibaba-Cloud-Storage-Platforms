@@ -18,7 +18,7 @@ Then, you will see the message below:
  Go to the link above (https://openapi.baidu.com/oauth/2.0/authorize?client_id=q8WE4EpCsau1oS0MplgMKNBn&response_type=code&redirect_uri=oob&scope=basic+netdisk), and log in your account.
  
  
-3.	Test uploading and downloading by running the following command:
+3.	Test uploading and downloading by running the following command, and you can customer different data size for testing:
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/85326183/235118725-71703e7d-d9c6-4d7a-8992-5dcdbd6b32e1.png">
  Then, you can see the results of the duration time in the terminal, which are similar to those below:
  <img width="420" alt="image" src="https://user-images.githubusercontent.com/85326183/235118892-61fce0d7-fac0-45e9-85fc-91010abced7c.png">
@@ -32,7 +32,7 @@ Then, you will see the message below:
 It will pop up a QR code to scan to log in shown below: 
 <img width="206" alt="image" src="https://user-images.githubusercontent.com/85326183/235119054-6cce076a-8a7c-468e-bd67-e5fa3c712e2b.png">
 
-3. Run the command to test uploading and downloading as below:
+3. Run the command to test uploading and downloading as below, and you can customer different data size for testing:
 <img width="196" alt="image" src="https://user-images.githubusercontent.com/85326183/235119106-c39e43dc-e381-4550-8241-c910ea3ecbeb.png">
 When it starts, you will see the following result; when it finishes, it will say "finished."
 <img width="193" alt="image" src="https://user-images.githubusercontent.com/85326183/235119148-f2f7788b-ad28-4cd3-a09e-290acb2fef06.png">
