@@ -79,6 +79,7 @@ def test_upload():
 	upload_2MB_file()
 	upload_10MB_file()
 	upload_100MB_file()
+	upload_1GB_file()
 
 
 def test_download():
@@ -87,6 +88,7 @@ def test_download():
 	download_2MB_file()
 	download_10MB_file()
 	download_100MB_file()
+	download_1GB_file()
 
 print("===============Start Uploading Test===================")
 test_upload()
